@@ -1,7 +1,0 @@
-D:\Kampus\Semester 4\MBKM Dago AI and Web\UNITY PROJECT\Game Prompt\bin\Debug\Game Prompt.exe.config
-D:\Kampus\Semester 4\MBKM Dago AI and Web\UNITY PROJECT\Game Prompt\bin\Debug\Game Prompt.exe
-D:\Kampus\Semester 4\MBKM Dago AI and Web\UNITY PROJECT\Game Prompt\bin\Debug\Game Prompt.pdb
-D:\Kampus\Semester 4\MBKM Dago AI and Web\UNITY PROJECT\Game Prompt\obj\Debug\Game Prompt.csproj.AssemblyReference.cache
-D:\Kampus\Semester 4\MBKM Dago AI and Web\UNITY PROJECT\Game Prompt\obj\Debug\Game Prompt.csproj.CoreCompileInputs.cache
-D:\Kampus\Semester 4\MBKM Dago AI and Web\UNITY PROJECT\Game Prompt\obj\Debug\Game Prompt.exe
-D:\Kampus\Semester 4\MBKM Dago AI and Web\UNITY PROJECT\Game Prompt\obj\Debug\Game Prompt.pdb
